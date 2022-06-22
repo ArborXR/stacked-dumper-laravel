@@ -1,3 +1,6 @@
+# ARCHIVED 🛑
+We've archived this fork because it's no longer in use now that [avto-dev/stacked-dumper-laravel](https://github.com/avto-dev/stacked-dumper-laravel) v1.6.0 has added support for Laravel 9.
+
 <p align="center">
   <img src="https://laravel.com/assets/img/components/logo-laravel.svg" alt="Laravel" width="240" />
 </p>
